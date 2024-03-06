@@ -18,7 +18,7 @@ root.render(element);
 
 ```
 
-####Imports
+#### Imports
 
 - We're importing the core React library from the `react` dependency.
 - createRoot function from `react-dom`.
